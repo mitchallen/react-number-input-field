@@ -122,6 +122,10 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Version History
 
+#### Version 0.1.2
+
+* added examples folder and example
+
 #### Version 0.1.1 
 
 * updated test case

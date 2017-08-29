@@ -122,6 +122,10 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Version History
 
+#### Version 0.1.4
+
+* Added ```- run: yarn add react``` to ```.circleci/config.yml```
+
 #### Version 0.1.3
 
 * react is now only a peer dependency

@@ -11,7 +11,7 @@ const NumberInputField = ({ floatingLabelText = 'number', hintText='123', fieldS
   <TextField  {...props}
    type='text' 
    pattern='[0-9]*'
-   inputmode='numeric'
+   inputMode='numeric'
    autoCapitalize='off'
    autoComplete='off'
    hintStyle={ fieldStyle.hintStyle }
